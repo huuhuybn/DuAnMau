@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvText;
     private Button btnOK;
 
+    // abc
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         btnOK = findViewById(R.id.btnOK);
 
 
-        
+
 
     }
 }
